@@ -1,0 +1,86 @@
+
+
+/* Class Selectors */
+
+
+.about-h2{
+  font-size: 3rem;
+  padding-bottom: 2rem;
+}
+
+.carousel-h1{
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  padding: 5rem;
+  font-size: 3rem;
+}
+
+.carousel-h3{
+  padding-bottom: 5rem;
+}
+
+.carousel-item{
+  height: 45rem;
+  background-color: #343233;
+  text-align: center;
+  color: #fff;
+}
+
+.dropdown-toggle{
+  margin: 2rem;
+}
+
+.half{
+  padding: 7% 15%;
+}
+
+.jumbotron{
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  padding: 3rem;
+}
+
+.navbar{
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.navbar-brand{
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 2rem;
+}
+
+.pay{
+  margin: 2rem;
+}
+
+
+/* Tag Selectors */
+
+h5{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+input{
+  margin-bottom: 1rem;
+  width: 15rem;
+}
+
+/* ID Selectors */
+
+
+#about{
+  color: white;
+  text-align: center;
+  background-color: #343550;
+  margin:0;
+}
+
+#book-now{
+  padding-top: 8rem;
+  background-color: #04293A;
+}
+
+#customer-care{
+  padding: 5rem;
+}
